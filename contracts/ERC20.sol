@@ -1,4 +1,4 @@
-//SPDX-Lincence-Identifier: MIT
+//SPDX-Lincence-Identifier: UNLICENCED
 pragma solidity 0.8.28;
 
 contract ERC20 {
